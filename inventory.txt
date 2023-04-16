@@ -1,0 +1,8 @@
+Cappuccino,2.50
+Latte,3.00
+Espresso,2.00
+Double Espresso,2,75
+Americano,2,50
+Flat White,2.75
+Iced Flat White,4.00
+Summer Punch, 3.50

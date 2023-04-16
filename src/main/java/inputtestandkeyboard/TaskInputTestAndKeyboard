@@ -1,0 +1,14 @@
+    
+    1- InputTest
+    Basic user Input Validation in Java
+        we build upon the handling runtime errors video content by using a try and catch block to handle basic user input validation. 
+        We show how input from the keybaord through the Java Scanner class can fail if the user enters 
+        an incorrect data type and we develop a solution that uses String input, a loop and a try and catch block to solve the problem.
+
+    2-Keyboard 
+    Java Keyboard class for User Input Validation
+        we build on the code developed in the basic user input validation
+        by creating a Keyboard class that provides reusable user input validation routines.
+        This makes it very easy to add user input validation to keyboard input in any program.
+     
+    3-KeyboardTest    
