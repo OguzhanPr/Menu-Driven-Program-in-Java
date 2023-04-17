@@ -3,7 +3,7 @@ package inputtestandkeyboard;
 import java.util.Scanner;
 
 public class Keyboard {
-    private Scanner scan;  //Bu kullanimi ask Chat Gpt
+    private Scanner scan;  //Bu kullanimi ask
     Keyboard(){
         scan=new Scanner(System.in);
     }
