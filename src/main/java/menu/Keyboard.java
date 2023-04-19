@@ -2,7 +2,7 @@ package menu;
 
 import java.util.Scanner;
 
-public class Keyboard {private Scanner scan;  //Bu kullanimi ask Chat Gpt
+public class Keyboard {private Scanner scan;  //Bu kullanimi 
     Keyboard(){
         scan=new Scanner(System.in);
     }
